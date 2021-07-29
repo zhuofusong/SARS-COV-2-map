@@ -1,0 +1,383 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "f66c44c3-39cc-34cf-b2f7-09d8ccb65252",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.865185,
+                    31.774661
+                ]
+            },
+            "properties": {
+                "featureType": "TruthObservation",
+                "phenomenonTime": "2020-07-28T12:05:00Z",
+                "resultTime": "2020-07-28T12:05:00Z",
+                "procedureName": "SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",
+                "procedureReference": "https://loinc.org/94500-6/",
+                "observedPropertyTitle": "SARS-CoV-2",
+                "observedProperty": "http://snomed.info/id/840533007",
+                "observerName": "Digital PCR#1, HUSLAB Kamppi",
+                "platformName": "HUSLAB - Laboratory of virology and immunology",
+                "platformReference": "https://korona.thl.fi/tests/api/collections/facilities/items/0f4d84ec-dabf-44c8-b133-973d80cbbed2",
+                "proximateFeatureOfInterestName": "Nasopharyngeal swab sample",
+                "proximateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/samplings/items/bfed92c2-dca6-4ac0-9b4e-9ceb4ff90f42",
+                "ultimateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/subjects/items/52da6d1b-1fa7-47ee-8044-ae4851b4d3a5",
+                "result": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "7b64cfb8-7f2c-3200-9809-99d51b79e172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.839008,
+                    31.8349
+                ]
+            },
+            "properties": {
+                "featureType": "TruthObservation",
+                "phenomenonTime": "2020-07-28T12:05:00Z",
+                "resultTime": "2020-07-28T12:05:00Z",
+                "procedureName": "SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",
+                "procedureReference": "https://loinc.org/94500-6/",
+                "observedPropertyTitle": "SARS-CoV-2",
+                "observedProperty": "http://snomed.info/id/840533007",
+                "observerName": "Digital PCR#1, HUSLAB Kamppi",
+                "platformName": "HUSLAB - Laboratory of virology and immunology",
+                "platformReference": "https://korona.thl.fi/tests/api/collections/facilities/items/0f4d84ec-dabf-44c8-b133-973d80cbbed2",
+                "proximateFeatureOfInterestName": "Nasopharyngeal swab sample",
+                "proximateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/samplings/items/bfed92c2-dca6-4ac0-9b4e-9ceb4ff90f42",
+                "ultimateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/subjects/items/52da6d1b-1fa7-47ee-8044-ae4851b4d3a5",
+                "result": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1d2fd6aa-af3c-320c-96fc-dfd16fb5b59c",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.7842586,
+                    31.720742
+                ]
+            },
+            "properties": {
+                "featureType": "TruthObservation",
+                "phenomenonTime": "2020-07-28T12:05:00Z",
+                "resultTime": "2020-07-28T12:05:00Z",
+                "procedureName": "SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",
+                "procedureReference": "https://loinc.org/94500-6/",
+                "observedPropertyTitle": "SARS-CoV-2",
+                "observedProperty": "http://snomed.info/id/840533007",
+                "observerName": "Digital PCR#1, HUSLAB Kamppi",
+                "platformName": "HUSLAB - Laboratory of virology and immunology",
+                "platformReference": "https://korona.thl.fi/tests/api/collections/facilities/items/0f4d84ec-dabf-44c8-b133-973d80cbbed2",
+                "proximateFeatureOfInterestName": "Nasopharyngeal swab sample",
+                "proximateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/samplings/items/bfed92c2-dca6-4ac0-9b4e-9ceb4ff90f42",
+                "ultimateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/subjects/items/52da6d1b-1fa7-47ee-8044-ae4851b4d3a5",
+                "result": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1da49427-726e-3062-8237-c938fff33c69",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.830738,
+                    31.953223
+                ]
+            },
+            "properties": {
+                "featureType": "TruthObservation",
+                "phenomenonTime": "2020-07-28T12:05:00Z",
+                "resultTime": "2020-07-28T12:05:00Z",
+                "procedureName": "SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",
+                "procedureReference": "https://loinc.org/94500-6/",
+                "observedPropertyTitle": "SARS-CoV-2",
+                "observedProperty": "http://snomed.info/id/840533007",
+                "observerName": "Digital PCR#1, HUSLAB Kamppi",
+                "platformName": "HUSLAB - Laboratory of virology and immunology",
+                "platformReference": "https://korona.thl.fi/tests/api/collections/facilities/items/0f4d84ec-dabf-44c8-b133-973d80cbbed2",
+                "proximateFeatureOfInterestName": "Nasopharyngeal swab sample",
+                "proximateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/samplings/items/bfed92c2-dca6-4ac0-9b4e-9ceb4ff90f42",
+                "ultimateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/subjects/items/52da6d1b-1fa7-47ee-8044-ae4851b4d3a5",
+                "result": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5b63be15-c01a-3352-88e7-9fa8b7a1e425",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.850264,
+                    32.021479
+                ]
+            },
+            "properties": {
+                "featureType": "TruthObservation",
+                "phenomenonTime": "2020-07-28T12:05:00Z",
+                "resultTime": "2020-07-28T12:05:00Z",
+                "procedureName": "SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",
+                "procedureReference": "https://loinc.org/94500-6/",
+                "observedPropertyTitle": "SARS-CoV-2",
+                "observedProperty": "http://snomed.info/id/840533007",
+                "observerName": "Digital PCR#1, HUSLAB Kamppi",
+                "platformName": "HUSLAB - Laboratory of virology and immunology",
+                "platformReference": "https://korona.thl.fi/tests/api/collections/facilities/items/0f4d84ec-dabf-44c8-b133-973d80cbbed2",
+                "proximateFeatureOfInterestName": "Nasopharyngeal swab sample",
+                "proximateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/samplings/items/bfed92c2-dca6-4ac0-9b4e-9ceb4ff90f42",
+                "ultimateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/subjects/items/52da6d1b-1fa7-47ee-8044-ae4851b4d3a5",
+                "result": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "865ad5ea-bd66-38a4-9cd2-41995cdb6abf",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.823949,
+                    32.025928
+                ]
+            },
+            "properties": {
+                "featureType": "TruthObservation",
+                "phenomenonTime": "2020-07-28T12:05:00Z",
+                "resultTime": "2020-07-28T12:05:00Z",
+                "procedureName": "SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",
+                "procedureReference": "https://loinc.org/94500-6/",
+                "observedPropertyTitle": "SARS-CoV-2",
+                "observedProperty": "http://snomed.info/id/840533007",
+                "observerName": "Digital PCR#1, HUSLAB Kamppi",
+                "platformName": "HUSLAB - Laboratory of virology and immunology",
+                "platformReference": "https://korona.thl.fi/tests/api/collections/facilities/items/0f4d84ec-dabf-44c8-b133-973d80cbbed2",
+                "proximateFeatureOfInterestName": "Nasopharyngeal swab sample",
+                "proximateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/samplings/items/bfed92c2-dca6-4ac0-9b4e-9ceb4ff90f42",
+                "ultimateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/subjects/items/52da6d1b-1fa7-47ee-8044-ae4851b4d3a5",
+                "result": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2031968f-821d-3883-a273-c397e5d93ef8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.753844,
+                    32.018872
+                ]
+            },
+            "properties": {
+                "featureType": "TruthObservation",
+                "phenomenonTime": "2020-07-28T12:05:00Z",
+                "resultTime": "2020-07-28T12:05:00Z",
+                "procedureName": "SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",
+                "procedureReference": "https://loinc.org/94500-6/",
+                "observedPropertyTitle": "SARS-CoV-2",
+                "observedProperty": "http://snomed.info/id/840533007",
+                "observerName": "Digital PCR#1, HUSLAB Kamppi",
+                "platformName": "HUSLAB - Laboratory of virology and immunology",
+                "platformReference": "https://korona.thl.fi/tests/api/collections/facilities/items/0f4d84ec-dabf-44c8-b133-973d80cbbed2",
+                "proximateFeatureOfInterestName": "Nasopharyngeal swab sample",
+                "proximateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/samplings/items/bfed92c2-dca6-4ac0-9b4e-9ceb4ff90f42",
+                "ultimateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/subjects/items/52da6d1b-1fa7-47ee-8044-ae4851b4d3a5",
+                "result": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "58d33361-cba4-35e3-9b49-9b20565fde13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.758129,
+                    32.04049
+                ]
+            },
+            "properties": {
+                "featureType": "TruthObservation",
+                "phenomenonTime": "2020-07-28T12:05:00Z",
+                "resultTime": "2020-07-28T12:05:00Z",
+                "procedureName": "SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",
+                "procedureReference": "https://loinc.org/94500-6/",
+                "observedPropertyTitle": "SARS-CoV-2",
+                "observedProperty": "http://snomed.info/id/840533007",
+                "observerName": "Digital PCR#1, HUSLAB Kamppi",
+                "platformName": "HUSLAB - Laboratory of virology and immunology",
+                "platformReference": "https://korona.thl.fi/tests/api/collections/facilities/items/0f4d84ec-dabf-44c8-b133-973d80cbbed2",
+                "proximateFeatureOfInterestName": "Nasopharyngeal swab sample",
+                "proximateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/samplings/items/bfed92c2-dca6-4ac0-9b4e-9ceb4ff90f42",
+                "ultimateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/subjects/items/52da6d1b-1fa7-47ee-8044-ae4851b4d3a5",
+                "result": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5080c320-eced-3186-b70f-4520f7b569f9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.7554419,
+                    32.0902079
+                ]
+            },
+            "properties": {
+                "featureType": "TruthObservation",
+                "phenomenonTime": "2020-07-28T12:05:00Z",
+                "resultTime": "2020-07-28T12:05:00Z",
+                "procedureName": "SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",
+                "procedureReference": "https://loinc.org/94500-6/",
+                "observedPropertyTitle": "SARS-CoV-2",
+                "observedProperty": "http://snomed.info/id/840533007",
+                "observerName": "Digital PCR#1, HUSLAB Kamppi",
+                "platformName": "HUSLAB - Laboratory of virology and immunology",
+                "platformReference": "https://korona.thl.fi/tests/api/collections/facilities/items/0f4d84ec-dabf-44c8-b133-973d80cbbed2",
+                "proximateFeatureOfInterestName": "Nasopharyngeal swab sample",
+                "proximateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/samplings/items/bfed92c2-dca6-4ac0-9b4e-9ceb4ff90f42",
+                "ultimateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/subjects/items/52da6d1b-1fa7-47ee-8044-ae4851b4d3a5",
+                "result": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ee014e4b-f75f-38b0-9e6d-9510372bdb4a",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.75929,
+                    31.964207
+                ]
+            },
+            "properties": {
+                "featureType": "TruthObservation",
+                "phenomenonTime": "2020-07-28T12:05:00Z",
+                "resultTime": "2020-07-28T12:05:00Z",
+                "procedureName": "SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",
+                "procedureReference": "https://loinc.org/94500-6/",
+                "observedPropertyTitle": "SARS-CoV-2",
+                "observedProperty": "http://snomed.info/id/840533007",
+                "observerName": "Digital PCR#1, HUSLAB Kamppi",
+                "platformName": "HUSLAB - Laboratory of virology and immunology",
+                "platformReference": "https://korona.thl.fi/tests/api/collections/facilities/items/0f4d84ec-dabf-44c8-b133-973d80cbbed2",
+                "proximateFeatureOfInterestName": "Nasopharyngeal swab sample",
+                "proximateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/samplings/items/bfed92c2-dca6-4ac0-9b4e-9ceb4ff90f42",
+                "ultimateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/subjects/items/52da6d1b-1fa7-47ee-8044-ae4851b4d3a5",
+                "result": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2a01023a-4ee7-34db-b945-a64989c8f0bd",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.806181,
+                    32.104878
+                ]
+            },
+            "properties": {
+                "featureType": "TruthObservation",
+                "phenomenonTime": "2020-07-28T12:05:00Z",
+                "resultTime": "2020-07-28T12:05:00Z",
+                "procedureName": "SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",
+                "procedureReference": "https://loinc.org/94500-6/",
+                "observedPropertyTitle": "SARS-CoV-2",
+                "observedProperty": "http://snomed.info/id/840533007",
+                "observerName": "Digital PCR#1, HUSLAB Kamppi",
+                "platformName": "HUSLAB - Laboratory of virology and immunology",
+                "platformReference": "https://korona.thl.fi/tests/api/collections/facilities/items/0f4d84ec-dabf-44c8-b133-973d80cbbed2",
+                "proximateFeatureOfInterestName": "Nasopharyngeal swab sample",
+                "proximateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/samplings/items/bfed92c2-dca6-4ac0-9b4e-9ceb4ff90f42",
+                "ultimateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/subjects/items/52da6d1b-1fa7-47ee-8044-ae4851b4d3a5",
+                "result": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "f314dffb-b89c-333d-bb2b-9b88e8f3fd39",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.912827,
+                    31.64178
+                ]
+            },
+            "properties": {
+                "featureType": "TruthObservation",
+                "phenomenonTime": "2020-07-28T12:05:00Z",
+                "resultTime": "2020-07-28T12:05:00Z",
+                "procedureName": "SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",
+                "procedureReference": "https://loinc.org/94500-6/",
+                "observedPropertyTitle": "SARS-CoV-2",
+                "observedProperty": "http://snomed.info/id/840533007",
+                "observerName": "Digital PCR#1, HUSLAB Kamppi",
+                "platformName": "HUSLAB - Laboratory of virology and immunology",
+                "platformReference": "https://korona.thl.fi/tests/api/collections/facilities/items/0f4d84ec-dabf-44c8-b133-973d80cbbed2",
+                "proximateFeatureOfInterestName": "Nasopharyngeal swab sample",
+                "proximateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/samplings/items/bfed92c2-dca6-4ac0-9b4e-9ceb4ff90f42",
+                "ultimateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/subjects/items/52da6d1b-1fa7-47ee-8044-ae4851b4d3a5",
+                "result": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "02d28920-d3e1-3952-90dc-1fb3fe42636b",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.037457,
+                    31.648923
+                ]
+            },
+            "properties": {
+                "featureType": "TruthObservation",
+                "phenomenonTime": "2020-07-28T12:05:00Z",
+                "resultTime": "2020-07-28T12:05:00Z",
+                "procedureName": "SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",
+                "procedureReference": "https://loinc.org/94500-6/",
+                "observedPropertyTitle": "SARS-CoV-2",
+                "observedProperty": "http://snomed.info/id/840533007",
+                "observerName": "Digital PCR#1, HUSLAB Kamppi",
+                "platformName": "HUSLAB - Laboratory of virology and immunology",
+                "platformReference": "https://korona.thl.fi/tests/api/collections/facilities/items/0f4d84ec-dabf-44c8-b133-973d80cbbed2",
+                "proximateFeatureOfInterestName": "Nasopharyngeal swab sample",
+                "proximateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/samplings/items/bfed92c2-dca6-4ac0-9b4e-9ceb4ff90f42",
+                "ultimateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/subjects/items/52da6d1b-1fa7-47ee-8044-ae4851b4d3a5",
+                "result": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "79d5d17c-2cb7-34b3-af6a-2f39d5c3b9cb",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.16738,
+                    31.368509
+                ]
+            },
+            "properties": {
+                "featureType": "TruthObservation",
+                "phenomenonTime": "2020-07-28T12:05:00Z",
+                "resultTime": "2020-07-28T12:05:00Z",
+                "procedureName": "SARS coronavirus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",
+                "procedureReference": "https://loinc.org/94500-6/",
+                "observedPropertyTitle": "SARS-CoV-2",
+                "observedProperty": "http://snomed.info/id/840533007",
+                "observerName": "Digital PCR#1, HUSLAB Kamppi",
+                "platformName": "HUSLAB - Laboratory of virology and immunology",
+                "platformReference": "https://korona.thl.fi/tests/api/collections/facilities/items/0f4d84ec-dabf-44c8-b133-973d80cbbed2",
+                "proximateFeatureOfInterestName": "Nasopharyngeal swab sample",
+                "proximateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/samplings/items/bfed92c2-dca6-4ac0-9b4e-9ceb4ff90f42",
+                "ultimateFeatureOfInterestReference": "https://korona.thl.fi/tests/api/collections/subjects/items/52da6d1b-1fa7-47ee-8044-ae4851b4d3a5",
+                "result": true
+            }
+        }
+    ]
+}
