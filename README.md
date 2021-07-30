@@ -44,3 +44,8 @@ Refer to [Mapbox documentation](https://docs.mapbox.com/help/getting-started/web
 ## A snapshot of the final web app which only requires 10 mins to build
 
 ![screenshot](data/screenshot-basic.png)
+
+## Mobile GIS apps
+
+[This link](https://www.igismap.com/5-best-gis-applications-for-android-and-ios/) contains a list of popular mobile GIS apps, which can be used to merge user-created maps and aggregate GIS information. 
+
